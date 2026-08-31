@@ -4,16 +4,16 @@
 
 |   Info      |        Description     |
 | ----------- | ---------------------- |
-| TeamID      |        Team-000        |
-| TeamName    |         sample         |
-| Captain     |       Abdu Alawini     |
-| Captain     |  alawini@illinois.edu  |
-| Member1     |        Kevin Pei       |
-| Member1     |  kevin2@illinois.edu   |
-| Member2     |                        |
-| Member2     |                        |
-| Member3     |                        |
-| Member3     |                        |
+| TeamID      |        Team-048        |
+| TeamName    |         TeamBuster     |
+| Captain     |       Josh Loftus      |
+| Captain     |  jloft@illinois.edu    |
+| Member1     |        Boston Cox      |
+| Member1     |  bmcox2@illinois.edu   |
+| Member2     |     August Steffen     |
+| Member2     |  augusts4@illinois.edu |
+| Member3     |      Yichang Zou       |
+| Member3     |   zou34@illinois.edu   |
 
 ## Project Information
 
